@@ -1,10 +1,10 @@
 # Orthanc-full-installation
 Instructions to install Orthanc DICOM server with plugins on Proxmox CT running Ubuntu Server Create CT DNS 8.8.8.8
 
-Update Ubuntu
+#Update Ubuntu
 
  apt update && apt upgrade -y
-Add user
+#Add user
 
  sudo adduser tsegman
 Add user to root privileges
